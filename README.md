@@ -1,34 +1,59 @@
-Hi 👋 My name is Vedant Jain
-============================
+# 👋 Hello, I'm Vedant Jain!  
+![](https://raw.githubusercontent.com/vedantjain8/vedantjain8/refs/heads/main/banner-wide.jpg)
+### 🚀 Full-Stack Developer & Tech Enthusiast  
 
-BCA Student
------------
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vedantjain8\&rank_icon=github&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vedantjain8\&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-I've been learning to code scripts and programs, with a growing interest in creating practical applications for people. Additionally, I've recently delved into homelabs, self-hosting, deployment, sysadmin, and related areas.
+---
 
-* 🌍  I'm based in Gujarat, India
-* 🖥️  See my portfolio at [Github](http://www.github.com/vedantjain8)
-* 🧠  I'm learning Flutter, Bun, Redis
-* ⚡  I like to roleplay as system admin
+## 🧐 About Me  
 
-### Skills
+Hi there! I’m **Vedant Jain**, currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**. While academics keep me grounded, I spend my free time diving into the fascinating world of **Full-Stack Application Development**.  
 
+Beyond coding, I have a deep interest in exploring how **scalable and robust applications** are built. I also love experimenting with homelabs, where I enjoy "cosplaying" as a sysadmin by setting up and managing self-hosted systems and tools. 🛠️  
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+When I'm not at my desk, you'll probably find me **tinkering with tech**, figuring out new ways to break (and fix) things! 😄  
 
+---
 
-### Socials
+## 🛠️ My Tech Toolbox  
 
-<p align="left"> <a href="https://www.github.com/vedantjain8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vedantjain8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+Here's a quick overview of the technologies and tools I've worked with:  
 
-### Badges
+### 💻 Programming & Markup Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,bash)](https://skillicons.dev)
 
-<b>My GitHub Stats</b>
+### 🖥️ Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,bun,express,next,django,flask,.net)](https://skillicons.dev)
 
-<a href="http://www.github.com/vedantjain8"><img src="https://github-readme-stats.vercel.app/api?username=vedantjain8&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vedantjain8's GitHub stats" /></a>
+### ⚙️ DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,jenkins,githubactions,nginx,postman,rabbitmq)](https://skillicons.dev)
 
-<b>Top Repositories</b>
+### 📟 IDE
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,sublime)](https://skillicons.dev)
 
-<div width="100%" align="center"><a href="https://github.com/vedantjain8/coin-keeper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantjain8&repo=coin-keeper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vedantjain8/qdue-flask" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantjain8&repo=qdue-flask&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🛢️ Databases & Storage
+[![My Skills](https://skillicons.dev/icons?i=postgresql,redis,mysql,sqlite,firebase)](https://skillicons.dev)
+
+### 🖥️ Platforms
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi)](https://skillicons.dev)
+
+---
+
+## 🌐 Connect with Me  
+
+Let's get connected!  
+
+- **[LinkedIn](https://www.linkedin.com/in/vedantjain8/)**  
+- **[GitHub](https://github.com/vedantjain8)**  
+
+---
+
+## 💡 Fun Fact  
+> [!TIP]
+> “The best way to learn is to build.” - That’s what I live by! Whether it’s apps, systems, or just cool tech experiments, I’m always building something exciting.  
+
+---  
+
+### Thank you for visiting my profile! Feel free to drop a star ⭐ on repositories you like or reach out to collaborate.  
