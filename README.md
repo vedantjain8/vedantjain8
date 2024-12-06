@@ -22,7 +22,7 @@ When I'm not at my desk, you'll probably find me **tinkering with tech**, figuri
 Here's a quick overview of the technologies and tools I've worked with:  
 
 ### 💻 Programming & Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dotnet,dart,html,css,js,bash)](https://skillicons.dev)
 
 ### 🖥️ Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,bun,express,next,django,flask,.net)](https://skillicons.dev)
